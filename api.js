@@ -49,31 +49,31 @@ let todayDate= new Date();
 date.innerText = dateManage(todayDate);
 
 if (Weatherforcast.textContent == 'Clear'){
-    document.body.style.backgroundImage ="url('./images/clear.jpg')"
+    document.body.style.backgroundImage ="url('../Images/clear.jpg')"
 }
  else if (Weatherforcast.textContent == 'Clouds'){
-    document.body.style.backgroundImage ="url('./Images/cloud.jpg')"
+    document.body.style.backgroundImage ="url('../Images/cloud.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Haze'){
-    document.body.style.backgroundImage ="url('./Images/Haze.jpg')"
+    document.body.style.backgroundImage ="url('../Images/Haze.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Smoke'){
-    document.body.style.backgroundImage ="url('./Images/smoke.jpg')"
+    document.body.style.backgroundImage ="url('../Images/smoke.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Rain'){
-    document.body.style.backgroundImage ="url('./Images/rain.jpg')"
+    document.body.style.backgroundImage ="url('../Images/rain.jpg')"
 }
 else if (Weatherforcast.textContent == 'Snow'){
-    document.body.style.backgroundImage ="url('./Images/snow.jpg')"
+    document.body.style.backgroundImage ="url('../Images/snow.jpg')"
 }
 else if (Weatherforcast.textContent == 'Thunderstorm'){
-    document.body.style.backgroundImage ="url('./Images/Thunder.jpeg')"
+    document.body.style.backgroundImage ="url('../Images/Thunder.jpeg')"
 }
 else if (Weatherforcast.textContent == 'Mist'){
-    document.body.style.backgroundImage ="url('./Images/mist.jpg')"
+    document.body.style.backgroundImage ="url('../Images/mist.jpg')"
 }
 
 }
