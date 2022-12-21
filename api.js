@@ -52,28 +52,28 @@ if (Weatherforcast.textContent == 'Clear'){
     document.body.style.backgroundImage ="url('./images/clear.jpg')"
 }
  else if (Weatherforcast.textContent == 'Clouds'){
-    document.body.style.backgroundImage ="url('./images/cloud.jpg')"
+    document.body.style.backgroundImage ="url('./Images/cloud.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Haze'){
-    document.body.style.backgroundImage ="url('./images/Haze.jpg')"
+    document.body.style.backgroundImage ="url('./Images/Haze.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Smoke'){
-    document.body.style.backgroundImage ="url('./images/smoke.jpg')"
+    document.body.style.backgroundImage ="url('./Images/smoke.jpg')"
 }
 
 else if (Weatherforcast.textContent == 'Rain'){
-    document.body.style.backgroundImage ="url('./images/rain.jpg')"
+    document.body.style.backgroundImage ="url('./Images/rain.jpg')"
 }
 else if (Weatherforcast.textContent == 'Snow'){
-    document.body.style.backgroundImage ="url('./images/snow.jpg')"
+    document.body.style.backgroundImage ="url('./Images/snow.jpg')"
 }
 else if (Weatherforcast.textContent == 'Thunderstorm'){
-    document.body.style.backgroundImage ="url('./images/Thunder.jpeg')"
+    document.body.style.backgroundImage ="url('./Images/Thunder.jpeg')"
 }
 else if (Weatherforcast.textContent == 'Mist'){
-    document.body.style.backgroundImage ="url('./images/mist.jpg')"
+    document.body.style.backgroundImage ="url('./Images/mist.jpg')"
 }
 
 }
